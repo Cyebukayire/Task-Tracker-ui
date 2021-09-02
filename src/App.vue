@@ -24,7 +24,7 @@ export default {
   },
 
   methods: {
-    async toggleAddTask(task) {
+    toggleAddTask(task) {
       this.showAddTask = !this.showAddTask
     }
   }
